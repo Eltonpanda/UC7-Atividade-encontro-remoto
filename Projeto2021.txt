@@ -1,2 +1,6 @@
 Desenvolver um repositório de imagens
+<<<<<<< HEAD
 Código de estrutura back end
+=======
+Criação do layout do site
+>>>>>>> interface-front
